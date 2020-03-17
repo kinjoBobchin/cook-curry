@@ -1,5 +1,7 @@
 # Cook-curry-on-ts
 
+![japanese_curry](https://user-images.githubusercontent.com/32972735/76879294-6a4ea980-68b9-11ea-91c1-d29b3760cd49.jpg)
+
 - study of programming curry
 
 # Situation
